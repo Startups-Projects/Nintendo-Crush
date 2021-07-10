@@ -8,3 +8,4 @@
 4. [hex inverter for noise removal](datasheets/TC74HCU04AP_hex_inverter.pdf)
 5. [CPU-datasheet](datasheets/datasheet-2A03-TRM-CPU.pdf)
 6. [Instruction set-microcontroller](datasheets/6502%20Instruction%20Set.pdf)
+7. [Microprocessor datasheet](datasheets/w65c02s-2572.pdf)
